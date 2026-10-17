@@ -1,1 +1,10 @@
 
+
+%  Ohm's law using a loop
+
+R = 10;
+
+for I = 1:5 % alue of i is from 1 to 5
+    V = I * R;
+    disp(V)
+end
