@@ -1,1 +1,12 @@
+clc;
+clear;
+close all;
 
+t = -3:0.01:3;
+x = double(abs(t) <= 1);
+
+plot(t, x, 'LineWidth', 1.5);
+grid on;
+title('Rectangular Pulse');
+xlabel('Time (s)');
+ylabel('x(t)');
