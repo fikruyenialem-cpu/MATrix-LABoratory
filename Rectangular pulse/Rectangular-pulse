@@ -2,11 +2,11 @@ clc;
 clear;
 close all;
 
-t = -3:0.01:3;
+t = -3:0.1:3;
 x = double(abs(t) <= 1);
 
-plot(t, x, 'LineWidth', 1.5);
+plot(t, x, 'LineWidth', 3);
 grid on;
-title('Rectangular Pulse');
-xlabel('Time (s)');
+title('Rectangular signal');
+xlabel('sec');
 ylabel('x(t)');
