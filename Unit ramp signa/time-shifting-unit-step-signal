@@ -1,1 +1,21 @@
+clc;
+clear;
+close all;
 
+t = -5:0.01:5;
+
+x1 = double(t >= 0);
+x2 = double(t >= 2);
+x3 = double(t >= -2);
+
+plot(t, x1, 'LineWidth', 1.5);
+hold on;
+plot(t, x2, 'LineWidth', 1.5);
+plot(t, x3, 'LineWidth', 1.5);
+hold off;
+
+grid on;
+xlabel('t');
+ylabel('Amplitude');
+title('Time Shifting of Unit Step Signals');
+legend('u(t)', 'u(t-2)', 'u(t+2)');
