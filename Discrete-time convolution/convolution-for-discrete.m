@@ -13,7 +13,7 @@ stem(n, y, 'filled');
 grid on;
 xlabel('n');
 ylabel('y[n]');
-title('Discrete-Time Convolution');
+title('Discrete Time Convolution');
 
 disp('Convolution result:');
-disp(y);
+disp(y);%it will display 4 numbers
