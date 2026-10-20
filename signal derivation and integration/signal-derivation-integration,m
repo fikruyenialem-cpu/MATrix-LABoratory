@@ -8,15 +8,14 @@ t = 0:0.01:10;
 x = sin(t);
 dx = gradient(x, t);
 y = cumtrapz(t, x);
-
-plot(t, y, 'linewidth', 1.5);
-hold on;
 plot(t, x, 'linewidth', 1.5);
+hold on;
+plot(t, y, 'linewidth', 1.5);
 plot(t, dx, 'linewidth', 1.5);
 hold off;
 
 grid on;
 xlabel('time in sec');
 ylabel('amplitude');
-title('signal and its derivative');
+title('signal's derivative and integration');
 legend('x(t) = sin(t)', 'dx/dt');
