@@ -17,5 +17,5 @@ hold off;
 grid on;
 xlabel('time in sec');
 ylabel('amplitude');
-title('signal's derivative and integration');
+title('signal with derivative and integration');
 legend('x(t) = sin(t)', 'dx/dt','integration of sine(t)');
