@@ -9,7 +9,7 @@ x2 = double(t >= 2);
 x3 = double(t >= -2);
 
 plot(t, x1, 'LineWidth', 1.5);
-hold on;
+hold on; % hold on helps to draw next signals on same coordinate
 plot(t, x2, 'LineWidth', 1.5);
 plot(t, x3, 'LineWidth', 1.5);
 hold off;
