@@ -7,7 +7,7 @@ t = 0:0.001:2;
 x1 = sin(2*pi*t);
 x2 = 0.5*cos(2*pi*t);
 
-y = x1 + x2;
+y = x1 + x2; % the new signal found from the combo
 
 plot(t, x1, 'LineWidth', 1.2);
 hold on;
