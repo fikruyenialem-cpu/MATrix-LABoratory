@@ -21,7 +21,7 @@ This repository is where I practice programming and apply mathematical and engin
 - **Time Scaling** — Demonstrates how time scaling changes a signal.
 - **Straight Line** — Draws and visualizes a straight line using MATLAB.
 
-###Electrical Engineering
+### Electrical Engineering
 - **V, I, R, P Calculator** — Calculates voltage, current, resistance, and power using basic electrical formulas.
 - **Finding MMF** — Calculates magnetomotive force (MMF) in magnetic circuits.
 - **Ohm's Law in a Loop** — Practices electrical calculations using a loop.
