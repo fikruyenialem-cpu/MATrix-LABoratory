@@ -1,6 +1,4 @@
-# MATLAB Engineering Projects ⚡
-
-Welcome to my MATLAB Engineering Projects repository!
+# MATLAB Engineering codes repositor!
 
 This repository is where I practice programming and apply mathematical and engineering concepts using MATLAB. I created these projects to strengthen my understanding of **Electrical Engineering, Signals and Systems, and engineering calculations** while improving my problem-solving and coding skills.
 
