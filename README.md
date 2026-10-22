@@ -20,7 +20,7 @@ This repository is where I practice programming and apply mathematical and engin
 - **Signal Visualization** — Explores and plots different types of signals.
 - **Time Scaling** — Demonstrates how time scaling changes a signal.
 - **Straight Line** — Draws and visualizes a straight line using MATLAB.
-
+- ** Dc motor speed calculator** - Calculate the speed of the motor using discord.
 ### Electrical Engineering
 - **V, I, R, P Calculator** — Calculates voltage, current, resistance, and power using basic electrical formulas.
 - **Finding MMF** — Calculates magnetomotive force (MMF) in magnetic circuits.
