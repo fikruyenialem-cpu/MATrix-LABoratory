@@ -36,3 +36,4 @@ ans =
 % x= linspace(0,100,6)
 out put 0	20	40	60	80	100
 % x = [0 20 40 ; 60 80 100] the 1st and the 2nd row separated by ;
+% x * X' multiplication of matrix w its transpose
