@@ -30,7 +30,8 @@ ans =
     64
 
 
-%
+% x = 1 : 10 the row is 1 and the col is 10
+% x' the prime used as a transpose
 % clearvars, clear the result on the workspace too
 
 
