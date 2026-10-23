@@ -1,7 +1,7 @@
 % sqrt(9), ans 3
 %ans+3, 6
 % x = 10, ans changed to x
-%
+%  e = 7 =5; supressed
 % >> whos
   Name      Size            Bytes  Class     Attributes
 
