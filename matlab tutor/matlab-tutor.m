@@ -16,8 +16,22 @@ y =
   ans       1x1                 8  double              
   x         1x1                 8  double              
   y         1x1                 8  double
-%
+%>> you =8 ; me = 8;
+>> you + me
+
+ans =
+
+    16
+
+>> you * me
+
+ans =
+
+    64
+
+
 %
 % clearvars, clear the result on the workspace too
+
 
 
