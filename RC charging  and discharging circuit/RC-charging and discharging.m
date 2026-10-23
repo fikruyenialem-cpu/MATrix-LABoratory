@@ -4,7 +4,6 @@ clear;
 close all;
 
 
-
 v = 5;
 r = 1000;
 c = 100e-6;
