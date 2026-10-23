@@ -1,7 +1,5 @@
 
-clc;
-clear;
-close all;
+
 
 
 R = 100;
@@ -22,7 +20,7 @@ I = V./Z;
 plot(f, I, 'LineWidth', 1.5);
 
 grid on;
-xlabel('Frequency (Hz)');
+xlabel('f');
 ylabel('Current (A)');
 title('Series RLC Circuit Frequency Response');
 
