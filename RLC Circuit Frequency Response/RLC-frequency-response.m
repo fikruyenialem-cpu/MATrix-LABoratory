@@ -1,6 +1,6 @@
-
-
-
+clc;
+clear;
+close all;
 
 R = 100;
 L = 0.1;
