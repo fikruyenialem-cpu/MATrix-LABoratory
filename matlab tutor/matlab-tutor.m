@@ -1,6 +1,14 @@
-% sqrt(9), ans 3
-%ans+3, 6
-% x = 10, ans changed to x
+>> x =5, y =9
+
+x =
+
+     5
+
+
+y =
+
+     9
+
 %  e = 7 =5; supressed
 % >> whos
   Name      Size            Bytes  Class     Attributes
