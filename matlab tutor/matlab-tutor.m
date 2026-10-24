@@ -41,4 +41,6 @@ out put 0	20	40	60	80	100
 the out put is 10 by 10 matrix with value of 0. 
 % x = zeros(10,1)
 row 10 and col 1
+% eye(2)   % 2 × 2 identity matrix
+
 % x = ones(10,1) same as above with value of 1.
