@@ -39,3 +39,5 @@ out put 0	20	40	60	80	100
 % x * X' multiplication of matrix w its transpose
 % x = zeros(10)
 the out put is 10 by 10 matrix.
+% x = zeros(10,1)
+row 10 and col 1
