@@ -37,3 +37,5 @@ ans =
 out put 0	20	40	60	80	100
 % x = [0 20 40 ; 60 80 100] the 1st and the 2nd row separated by ;
 % x * X' multiplication of matrix w its transpose
+% x = zeros(10)
+the out put is 10 by 10 matrix.
