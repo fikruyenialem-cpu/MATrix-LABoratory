@@ -44,3 +44,4 @@ row 10 and col 1
 % eye(2)   % 2 × 2 identity matrix
 
 % x = ones(10,1) same as above with value of 1.
+% x = linspace(200,4045); % has 100 values in it by default
